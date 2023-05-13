@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="v1.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="微信运营-关注回复-设置-创建文本" transform="translate(-40.000000, -76.000000)" fill-rule="nonzero">
+            <g id="添加备份-10" transform="translate(40.000000, 76.000000)">
+                <g id="退出icon-" transform="translate(12.600000, 12.300000) scale(1, -1) translate(-12.600000, -12.300000) translate(3.000000, 3.600000)">
+                    <rect id="矩形" fill="#000000" opacity="0" x="3" y="1" width="16" height="16"></rect>
+                    <path d="M12.499,10.002 L12.499,7.99 L7.506,7.99 L7.506,5.997 L12.499,5.997 L12.499,4.004 L15.499,7.003 L12.499,10.002 Z M11.512,8.996 L11.512,13.001 L6.499,13.001 L6.499,16 L0.499,13.001 L0.499,8.52651283e-15 L11.512,8.52651283e-15 L11.512,4.991 L10.506,4.991 L10.506,1.006 L2.505,1.006 L6.499,3.005 L6.499,11.995 L10.506,11.995 L10.506,8.996 L11.512,8.996 Z" id="形状" fill="currentColor" transform="translate(7.999000, 8.000000) scale(-1, -1) translate(-7.999000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
